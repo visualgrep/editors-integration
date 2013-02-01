@@ -6,7 +6,7 @@ then
 	exit 1
 fi
 
-APP_NAME="edit"
+APP_NAME="/Applications/TextWrangler.app/Contents/Helpers/edit"
 
 args=("$@")
 let END=$# i=0
